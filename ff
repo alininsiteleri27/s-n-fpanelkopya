@@ -1,0 +1,13 @@
+BANA FINAL index.html VER
+
+ŞARTLAR:
+1) HTML yapısı %100 AYNI (tag, id, class değişmeyecek)
+2) Login sistemi AYNI (localStorage users, giris(), cikis())
+3) Admin panel HTML'i AYNI (hiçbir div silinmeyecek/değişmeyecek)
+4) kisiler objesi AYNEN KORUNACAK (tek harf bile değişmeyecek)
+5) Firebase sadece ONLINE STATUS için kullanılacak
+6) firebaseOnline() ve status listener SADECE FIXLENECEK
+7) PWA / manifest / sw.js KODU index’te OLMAYACAK
+8) Yeni özellik ekleme, sadece çalışan ve temiz hale getir
+9) Tek dosya: SADECE index.html
+10) Kod PROD seviyesinde ve çalışır olacak
